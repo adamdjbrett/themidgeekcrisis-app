@@ -7,6 +7,8 @@ canonical: /about/
 ---
 Welcome to the [The Mid-Geek Crisis](https://themidgeekcrisis.com/) RSS feed reader. It is emant to keep busy geeks current on international and geeky news. We made this site because we miss Google Reader and the social reading of articles. this is also a light weight site deisgned for gray scale e-ink sites. 
 
+This site updates everyday at 6AM and 4PM
+
 ## The Mid-Geek Crisis
 -   [MERCH!](http://www.tmg.coffee/)
 -   [TWITCH](https://www.twitch.tv/themidgeekcrisis)
