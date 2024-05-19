@@ -1,6 +1,6 @@
 ---
 name: Wired
 url: https://wired.com/
-image: /images/wired.svg
+avatar: /images/wired.svg
 feed: https://www.wired.com/rss/
 ---

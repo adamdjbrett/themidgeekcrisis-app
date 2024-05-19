@@ -1,6 +1,6 @@
 ---
 name: Gizmodo
 url: https://gizmodo.com/
-image: /images/g.png
+avatar: /images/g.png
 feed: https://gizmodo.com/rss
 ---

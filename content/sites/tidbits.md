@@ -1,6 +1,6 @@
 ---
 name: TidBits
 url: https://tidbits.com/
-image: /images/tidbits.png
+avatar: /images/tidbits.png
 feed: https://tidbits.com/feed/
 ---
