@@ -1,6 +1,6 @@
 ---
 name: Ars Technica
 url: https://arstechnica.com/
-image: /assets/images/ars.png
+image: /images/ars.png
 feed: https://feeds.arstechnica.com/arstechnica/index
 ---
