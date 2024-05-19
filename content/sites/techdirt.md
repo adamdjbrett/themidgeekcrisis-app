@@ -1,6 +1,6 @@
 ---
 name: techdirt
 url: https://www.techdirt.com/
-avatar: /images/techdirt.svg
+avatar: /images/techdirt.png
 feed: https://www.techdirt.com/feed/
 ---
