@@ -1,12 +1,12 @@
 const packageJson = require("../../package.json");
 
 module.exports = {
-  title: "The Mid-Geek Crisis News App",
+  title: "The Mid-Geek Crisis App",
   description: "The RSS feed reader of geeky news. Feed inclusion does not mean endorsement",
   author: "Multiple Authors",
   url: "https://themidgeekcrisis.app/",
   github: {
-    project: "https://github.com/lwojcik/eleventy-template-m10y",
+    project: "https://github.com/adamdjbrett/themidgeekcrisis-app/",
   },
   userAgent: "https://themidgeekcrisis.app",
   language: "en",
